@@ -1,0 +1,5 @@
+https://www.unpkg.com/browse/bootstrap-icons@1.10.3/bootstrap-icons.svg
+
+
+
+https://unpkg.com/ionicons@5.4.0/dist/ionicons.js
